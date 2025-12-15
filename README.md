@@ -2,7 +2,7 @@
 
 KitchenMate is an intelligent culinary assistant powered by AI, designed to help users with cooking techniques, recipes, ingredient knowledge, and kitchen-related queries. Built with a modern React frontend and a FastAPI backend, KitchenMate provides an intuitive chat interface for culinary guidance.
 
-## 🍳 Features
+## 🔍 Features
 
 - **Intelligent Recipe Assistance**: Get detailed recipes, cooking techniques, and meal preparation guidance
 - **Ingredient Knowledge**: Learn about ingredients, substitutions, and alternatives
