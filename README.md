@@ -145,12 +145,7 @@ Programs/
 - Search functionality to find previous conversations
 - Delete individual chats
 - Smart title generation based on conversation content
-
-### File Upload
-- Support for images, PDFs, documents, and text files
-- Keyboard shortcut: `Ctrl+U` (or `Cmd+U` on Mac)
-- Visual file preview with remove option
-
+
 ## 🔧 API Endpoints
 
 ### POST `/api/ask`
