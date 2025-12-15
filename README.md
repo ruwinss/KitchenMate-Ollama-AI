@@ -9,8 +9,7 @@ KitchenMate is an intelligent culinary assistant powered by AI, designed to help
 - **Kitchen Tools & Equipment**: Get advice on kitchen tools and operations
 - **Menu Planning**: Receive help with meal planning and culinary methods
 - **Modern Chat Interface**: Beautiful, responsive UI with dark/light mode support
-- **Chat History**: Save and manage your previous conversations
-- **File Upload Support**: Attach photos and files to enhance your queries
+- **Chat History**: Save and manage your previous conversations
 - **Real-time Responses**: Fast and accurate AI-powered responses
 
 ## 🛠️ Tech Stack
