@@ -24,7 +24,7 @@ KitchenMate is an intelligent culinary assistant powered by AI, designed to help
 - **FastAPI** - Modern Python web framework
 - **Ollama** - Local LLM runtime
 - **Llama 3.2** - Base AI model
-- **Custom Model (ChefMate)** - Fine-tuned for culinary expertise
+- **Custom Model (KitchenMate)** - Fine-tuned for culinary expertise
 
 ## 📋 Prerequisites
 
